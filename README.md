@@ -1,4 +1,4 @@
-iFood Delivery - Projeto React Native (Expo)
+Silva Lanchonete - Projeto React Native (Expo)
 
 Este projeto é um aplicativo de delivery desenvolvido com React Native e Expo Router, simulando um sistema de pedidos online com interface moderna e navegação entre telas.
 
