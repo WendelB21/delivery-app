@@ -102,7 +102,11 @@ Os dados são armazenados apenas em estado local durante a execução.
 
 Autores:
 
-Desenvolvido por Wendel, Luiz e Gilberto
+Desenvolvido por:
+
+Wendel Borges da Silva Vieira | 01789820
+Luiz Eduardo Ferreira Neto | 01847722
+Gilberto | 01785373
 
 📌 Considerações finais
 
